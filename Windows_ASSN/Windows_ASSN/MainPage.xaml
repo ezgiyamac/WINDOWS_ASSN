@@ -9,7 +9,7 @@
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
         <Image x:Name="img_viewer" Height="516" Margin="193,49,193,0" VerticalAlignment="Top"/>
-        <Button Content="CLICK FOR PICTURE" HorizontalAlignment="Left" Margin="540,594,0,0" VerticalAlignment="Top" Height="111" Width="241"/>
+        <Button Content="CLICK FOR PICTURE" HorizontalAlignment="Left" Margin="559,603,0,0" VerticalAlignment="Top" Height="111" Width="241" Click="Button_Click_1"/>
 
     </Grid>
 </Page>

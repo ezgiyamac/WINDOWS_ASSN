@@ -34,5 +34,14 @@ namespace Windows_ASSN
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
         }
+
+        private async void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            CameraCaptureUI capture = new CameraCaptureUI();
+            capture.PhotoSettings.CroppedAspectRatio = new Size(16, 9);
+            StorageFile file = await capture.CaptureFileAsync(CameraCaptureUIMode.Photo);
+            IRandomAccessStream filestream = await file.OpenAsync(FileAccessMode.Read);
+            BitmapImage img = new BitmapImage(); img.SetSource(filestream); img_viewer.Source = img;
+        }
     }
 }
