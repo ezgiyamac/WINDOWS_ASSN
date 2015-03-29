@@ -15,10 +15,6 @@ C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Deb
 C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\MainPage.xaml
 C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\Windows_ASSN.exe
 C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\Windows_ASSN.pdb
-C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\priconfig.xml.intermediate
-C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\layout.resfiles.intermediate
-C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\resources.resfiles.intermediate
-C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\pri.resfiles.intermediate
 C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\priconfig.xml
 C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\layout.resfiles
 C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\obj\Debug\resources.resfiles
