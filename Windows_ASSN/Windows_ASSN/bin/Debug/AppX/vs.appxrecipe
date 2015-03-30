@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\Windows_ASSN.exe">
       <PackagePath>Windows_ASSN.exe</PackagePath>
-      <Modified>2015-03-29T23:54:20.303</Modified>
+      <Modified>2015-03-30T00:01:09.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\Windows_ASSN.pdb">
       <PackagePath>Windows_ASSN.pdb</PackagePath>
-      <Modified>2015-03-29T23:54:20.284</Modified>
+      <Modified>2015-03-30T00:01:09.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2015-03-29T23:54:19.568</Modified>
+      <Modified>2015-03-29T23:58:58.958</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
