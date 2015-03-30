@@ -5,7 +5,7 @@
     <WindowsUser>eeristi</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>D3BEB8FE9E754B1E0F0037335C4B1FB0C2A93D6D59462D8B0FBE0030A2E085CE</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>4FA46FACEFCCF34B77CEB4F3C61D24D83D0EC8954C463405078A32065B31C211</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>18c51ef3-dd79-4a64-becd-57b154655210_1.0.0.0_neutral__82tacvx8g0xk6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>18c51ef3-dd79-4a64-becd-57b154655210_82tacvx8g0xk6!App</RegisteredUserModeAppID>
     <RegisteredPackageID>18c51ef3-dd79-4a64-becd-57b154655210</RegisteredPackageID>
@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-29T23:38:41.522</Modified>
+      <Modified>2015-03-30T00:06:39.344</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -62,7 +62,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-03-29T23:38:41.476</Modified>
+      <Modified>2015-03-30T00:06:39.298</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
