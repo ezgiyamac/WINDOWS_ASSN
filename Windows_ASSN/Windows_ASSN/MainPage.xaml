@@ -8,8 +8,13 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <Image x:Name="img_viewer" Height="516" Margin="193,49,193,0" VerticalAlignment="Top"/>
-        <Button Content="CLICK FOR PICTURE" HorizontalAlignment="Left" Margin="559,603,0,0" VerticalAlignment="Top" Height="111" Width="241" Click="Button_Click_1"/>
+        <Image x:Name="img_viewer1" Height="210" Margin="20,22,1035,0" VerticalAlignment="Top" NineGrid="0" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="0.384"/>
+            </Image.RenderTransform>
+        </Image>
+        <Button Content="CLICK FOR PICTURE" HorizontalAlignment="Left" Margin="300,603,0,0" VerticalAlignment="Top" Height="111" Width="753" Click="Button_Click_1"/>
+        <Image x:Name="img_viewer2" HorizontalAlignment="Left" Height="178" Margin="573,54,0,0" VerticalAlignment="Top" Width="337"/>
 
     </Grid>
 </Page>

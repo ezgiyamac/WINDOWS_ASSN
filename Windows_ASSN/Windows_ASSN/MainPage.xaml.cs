@@ -46,7 +46,12 @@ namespace Windows_ASSN
             capture.PhotoSettings.CroppedAspectRatio = new Size(16, 9);
             StorageFile file = await capture.CaptureFileAsync(CameraCaptureUIMode.Photo);
             IRandomAccessStream filestream = await file.OpenAsync(FileAccessMode.Read);
-            BitmapImage img = new BitmapImage(); img.SetSource(filestream); img_viewer.Source = img;
+            BitmapImage img = new BitmapImage(); 
+            img.SetSource(filestream); 
+            if (img_viewer1.Source==null)
+                img_viewer1.Source = img;
+            else
+                img_viewer2.Source = img;
         }
     }
 }
