@@ -5,7 +5,7 @@
     <WindowsUser>eeristi</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>4FA46FACEFCCF34B77CEB4F3C61D24D83D0EC8954C463405078A32065B31C211</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>A3EB1DB5C2CE341DC92E3F474F6E1A1E952DAF39CC91F91E2AC4F13E0BB55566</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>18c51ef3-dd79-4a64-becd-57b154655210_1.0.0.0_neutral__82tacvx8g0xk6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>18c51ef3-dd79-4a64-becd-57b154655210_82tacvx8g0xk6!App</RegisteredUserModeAppID>
     <RegisteredPackageID>18c51ef3-dd79-4a64-becd-57b154655210</RegisteredPackageID>
@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-03-30T00:06:39.344</Modified>
+      <Modified>2015-04-03T10:33:12.543</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\Windows_ASSN.exe">
       <PackagePath>Windows_ASSN.exe</PackagePath>
-      <Modified>2015-04-03T10:08:30.043</Modified>
+      <Modified>2015-04-03T10:39:40.570</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\Windows_ASSN.pdb">
       <PackagePath>Windows_ASSN.pdb</PackagePath>
-      <Modified>2015-04-03T10:08:29.996</Modified>
+      <Modified>2015-04-03T10:39:40.525</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2015-04-03T10:08:28.151</Modified>
+      <Modified>2015-04-03T10:39:38.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\eeristi\Documents\GitHub\WINDOWS_ASSN\Windows_ASSN\Windows_ASSN\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

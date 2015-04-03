@@ -17,6 +17,8 @@ using Windows.Storage;
 using Windows.Storage.Streams;
 using Windows.UI.Xaml.Media.Imaging;
 
+//using System.Windows.Forms;
+
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
 namespace Windows_ASSN
@@ -60,8 +62,19 @@ namespace Windows_ASSN
                 Txtbox3.Visibility = Visibility.Visible;
 
             }
-            else
+            else if (img_viewer3.Source == null)
+            {
                 img_viewer3.Source = img;
+                Txtbox4.Visibility = Visibility.Visible;
+            }
+            else if (img_viewer4.Source == null)
+            {
+                img_viewer4.Source = img;
+                Txtbox5.Visibility = Visibility.Visible;
+                Btn1.Visibility = Visibility.Collapsed;
+            }
+
+
 
 
             
