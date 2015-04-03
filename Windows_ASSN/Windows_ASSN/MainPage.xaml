@@ -8,14 +8,37 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <Image x:Name="img_viewer1" Height="210" Margin="8.333,105.333,1046.667,0" VerticalAlignment="Top" NineGrid="0" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+        <Image x:Name="img_viewer1" Height="210" Margin="46.674,367.052,1008.326,0" VerticalAlignment="Top" NineGrid="0" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
             <Image.RenderTransform>
-                <CompositeTransform Rotation="0.384"/>
+                <CompositeTransform Rotation="-27.004"/>
             </Image.RenderTransform>
         </Image>
-        <Button Content="CLICK FOR PICTURE" HorizontalAlignment="Left" Margin="300,603,0,0" VerticalAlignment="Top" Height="111" Width="753" Click="Button_Click_1"/>
-        <Image x:Name="img_viewer2" HorizontalAlignment="Left" Height="178" Margin="573,54,0,0" VerticalAlignment="Top" Width="337"/>
-        <TextBox HorizontalAlignment="Left" Margin="93,32,0,0" TextWrapping="Wrap" Text="So you wake up in the morning." VerticalAlignment="Top" Height="34" Width="375"/>
+        <Button x:Name="Btn1" Content="CLICK FOR PICTURE" HorizontalAlignment="Left" Margin="116,685,0,0" VerticalAlignment="Top" Height="49" Width="1250" Click="Button_Click_1"/>
+        <Image x:Name="img_viewer2" HorizontalAlignment="Left" Height="188" Margin="473.187,157.431,0,0" VerticalAlignment="Top" Width="309.37" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-15.073"/>
+            </Image.RenderTransform>
+        </Image>
+        <TextBox x:Name="Txtbox1" HorizontalAlignment="Left" Margin="48.034,273.083,0,0" TextWrapping="Wrap" Text="So you wake up in the morning." VerticalAlignment="Top" Height="34" Width="281.832" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <TextBox.RenderTransform>
+                <CompositeTransform Rotation="-26.909"/>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="Txtbox2" HorizontalAlignment="Left" Margin="482.034,97.095,0,0" TextWrapping="Wrap" Text="You feel tired." VerticalAlignment="Top" Width="174.926" Height="42" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Visibility="Collapsed">
+            <TextBox.RenderTransform>
+                <CompositeTransform Rotation="-11.841"/>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="Txtbox3" HorizontalAlignment="Left" Margin="862,58,0,0" TextWrapping="Wrap" Text="And your lecturer is going on about something you couldn't care less about&#xD;&#xA;" VerticalAlignment="Top" Width="402" RenderTransformOrigin="0.5,0.5" Visibility="Collapsed">
+            <TextBox.RenderTransform>
+                <CompositeTransform Rotation="9.021"/>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Image x:Name="img_viewer3" HorizontalAlignment="Left" Height="217.667" Margin="857.443,147.166,0,0" VerticalAlignment="Top" Width="338.447" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="8.755"/>
+            </Image.RenderTransform>
+        </Image>
 
     </Grid>
 </Page>

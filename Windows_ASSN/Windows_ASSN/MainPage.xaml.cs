@@ -47,11 +47,35 @@ namespace Windows_ASSN
             StorageFile file = await capture.CaptureFileAsync(CameraCaptureUIMode.Photo);
             IRandomAccessStream filestream = await file.OpenAsync(FileAccessMode.Read);
             BitmapImage img = new BitmapImage(); 
-            img.SetSource(filestream); 
-            if (img_viewer1.Source==null)
+            img.SetSource(filestream);
+
+            if (img_viewer1.Source == null)
+            {
                 img_viewer1.Source = img;
-            else
+                Txtbox2.Visibility = Visibility.Visible;
+            }
+            else if (img_viewer2.Source == null)
+            {
                 img_viewer2.Source = img;
+                Txtbox3.Visibility = Visibility.Visible;
+
+            }
+            else
+                img_viewer3.Source = img;
+
+
+            
+
+
+
+
         }
+
+        
+       
+
+        
+        
+       
     }
 }
